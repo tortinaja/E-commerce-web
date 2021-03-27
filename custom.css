@@ -13,3 +13,17 @@
 #h1block1 {
     color: indigo;
 }
+
+#btn1 {
+    border: 2px solid black;
+    width: 120px;
+    background-color: blue;
+    color: red;
+}
+
+#btn2 {
+    border: 2px solid black;
+    width: 150px;
+    background-color: blue;
+    color: red;
+}
