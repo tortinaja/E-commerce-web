@@ -10,7 +10,3 @@ btn1.addEventListener('click', function(){
 btn2.addEventListener('click', function(){
     txtblock2.style.color = "red";
 });
-
-if (btn1.addEventListener('click', function(){
-    bgblock1.style.backgroundColor = "blue";
-    }));
