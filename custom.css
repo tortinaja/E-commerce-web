@@ -4,10 +4,21 @@
 
 #bgblock1 {
     background-color: khaki;
+    border: solid 2px white;
 }
 
 #txtblock1 {
     color: hotpink;
+}
+
+#bgblock2 {
+    background-color: cornflowerblue;
+    border: solid 2px white;
+}
+
+#bgblock3 {
+    background-color: chocolate;
+    border: solid 2px white;
 }
 
 #h1block1 {
@@ -30,4 +41,16 @@
     width: 150px;
     background-color: blue;
     color: red;
+}
+
+#content2 {
+    padding-top: 20px;
+}
+
+.banner1 {
+    padding-top: 10px;
+}
+
+body {
+    background-color: thistle;
 }
